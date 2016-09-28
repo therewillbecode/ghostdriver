@@ -2,7 +2,7 @@
 
 ## Queue your phantomjs child processes from node.
 
-## Choose either series or pooled workers
+## Choose either series or parallel phantomjs workers
 
 ## Map urls for a given phantomjs script using a pool and return the output of workers to an object
 
